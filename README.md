@@ -1,6 +1,6 @@
 <!-- Background image -->
 <p align="center">
-  <img src="assets/Linkedin_background_image.png" alt="LinkedIn Background Image" width="100%">
+  <img src="assets/Linkedin_background_image_updated.png" alt="LinkedIn Background Image" width="100%">
 </p>
 
 <!-- Hero text -->

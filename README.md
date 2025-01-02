@@ -54,6 +54,6 @@
   
 
 <!-- Profile view counter -->
-![](https://hit.yhype.me/github/profile?account_id=66440654&base=1000)
+![](https://hit.yhype.me/github/profile?account_id=66440654&color=green)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

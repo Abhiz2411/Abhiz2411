@@ -50,7 +50,7 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhijitzen3) 
 
-  ![Google Pay Icon](assets/icons8-google-pay-50.png) abhijitzende75@okhdfcbank
+  <img src="assets/icons8-google-pay-50.png" height="20"> abhijitzende75@okhdfcbank
   
 
   

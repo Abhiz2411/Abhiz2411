@@ -54,6 +54,6 @@
   
 
 <!-- Profile view counter -->
-![](https://hit.yhype.me/github/profile?account_id=66440654&color=green)
+![](https://komarev.com/ghpvc/?username=Abhiz2411)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

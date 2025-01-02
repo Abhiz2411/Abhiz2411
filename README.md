@@ -13,6 +13,13 @@
   </a>
 </p>
 
+<!-- Snake Game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake.svg" />
+</picture>
+
 <!-- GPRM Profile generated readme -->
 # 💫 About Me:
 👨‍💻 Computer Science Engineer<br>⏳ 1.5+ years of experience in ⬇️<br>💻 Development <br>⚙️ DevOps<br>🗂️ Database Management<br>🚀 Deploying workflows<br>🤖 Automating processes<br>🌍 Worked with international clients<br>🧠 Strong analytical skills<br>🤝 Team-oriented mindset<br>🎯 Delivering impactful results

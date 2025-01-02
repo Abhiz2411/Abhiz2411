@@ -4,7 +4,7 @@
 </p>
 
 <!-- Hero text -->
-<h1 align="center">Hey 👋, I'm Abhijit Zende 👨‍💻</h1>
+<h1 align="center">Hey 👋, <a href="https://www.abhijitzende.com/">I'm Abhijit Zende 👨‍💻</a></h1>
 
 <!-- Typing text -->
 <p align="center">

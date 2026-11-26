@@ -6,6 +6,8 @@
 <!-- Hero text -->
 <h1 align="center">Hey 👋, <a href="https://www.abhijitzende.com/">I'm Abhijit Zende 👨‍💻</a></h1>
 
+<p align="center">🆕 <b><a href="https://github.com/Abhiz2411/ai-3d-interactive-portfolio">My new AI 3D Interactive Portfolio</a></b> · <a href="https://abhijitzende.com">Live website</a> · <a href="https://aichat.abhijitzende.com">Chat with my AI assistant</a></p>
+
 <!-- Typing text -->
 <p align="center">
   <a href="https://git.io/typing-svg">
